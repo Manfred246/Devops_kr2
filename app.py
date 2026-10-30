@@ -1,3 +1,4 @@
+# KR2: Beldiy
 import os
 import socket
 
